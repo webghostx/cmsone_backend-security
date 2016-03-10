@@ -5,3 +5,5 @@ geplant:
 * Login mit TAN ähnlichem Verfahren ermöglichen
 * Login-Zeit einstellbar
 * Zugriffe und Zugriffs-Versuche werden gelogt
+* Passwort-Generator
+* Passwort Ablaufdatum einstellbar
